@@ -18,7 +18,7 @@ const About = () => {
             Sagardighi is the greatest while Laldighi is the second greatest ( denga ). Boal, Chitol, Gozar, and Koi are the well known fish types of the space.
             During winter various types of visitors, birds fly into the beel looking for food, particularly snails. An enormous number of birds, including parrots and shalik, can likewise be seen here.
           </p>
-          <p className="about-text">
+          <p data-aos="fade-up" className="about-text">
           Whenever you are moving forward along the canal in a boat or trawler, you will see villages on both sides. On the way, you come to the chest of a huge body of water.
           Somewhere out there, the blue sky appears to contact the water of the beel. The skyline is loaded with water like an immense ocean; every one of the ranches vanish in the floodwaters. Somewhere out there, in the beel, you can see some conch shells, kanibak, mashranga, dahuk, duck, and obscure visitor birds. By and large, a boat excursion to Arial Bill in the blustery season can be a fun chance to partake in the most excellent landscape.
           </p>
