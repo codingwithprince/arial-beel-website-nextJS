@@ -1,0 +1,40 @@
+.navbar{
+	padding: 5px 5%;
+    z-index: 4;
+    background-color: #00a749 !important;
+	position:fixed;
+	top:0;
+	width: 100%;
+}
+.navbar-brand{
+	font-size: 25px;
+    text-transform: capitalize;
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: #fffafa !important;
+}
+.nav-item{
+	margin-right: 15px;
+	margin-left: 5px;
+}
+.nav-link{
+	color: #fffafa !important;
+	font-size: 15px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+	border-radius: .25rem;
+    box-shadow:none;
+}
+.navbar-nav{
+	float: right;
+	text-align: right;
+	color: #fffafa;
+}
+.navbar-light .navbar-toggler{
+	border-color: transparent;
+}

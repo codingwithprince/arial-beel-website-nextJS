@@ -1,11 +1,19 @@
+/* == font import */
+@import url('https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Pacifico&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@font-face {
+    font-family: 'arial';
+    src: URL('../fonts/kalpana.ttf') format('truetype');
+  }
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #FFFAFA;
 }
-
 a {
   color: inherit;
   text-decoration: none;
@@ -14,3 +22,21 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.section-padding{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.section-title{
+  font-size: 30px;
+  font-weight: 700;
+  border-bottom: 3px solid #333;
+  max-width: 300px;
+  margin: auto;
+  color: #333;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+
+
