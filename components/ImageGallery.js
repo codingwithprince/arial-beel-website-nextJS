@@ -40,7 +40,7 @@ const SingleImage = (props) => {
     const { src, name } = props.data;
     return (
         <div className="single-image">
-            <img src={src} alt="" />
+            <img src={src} alt={name} />
             <div className="img-overlay">
                 {/* <p className="img-text">{name}</p> */}
             </div>

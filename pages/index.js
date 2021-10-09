@@ -8,11 +8,17 @@ import ImageGallery from '../components/ImageGallery';
 import Location from '../components/Location';
 import Seasons from '../components/Seasons';
 
-import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
    <>
+    {/* Head */}
+    <Head>
+      <title>Arial Beel - The Third Largest Wetland Of Bangladesh</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+      <meta name="description" content="All about Arial Beel ( আড়িয়াল বিল ). It contains all information about arial beel and proper guide to visit. আড়িয়াল বিল." />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </Head>
     {/* === Hero section === */}
     <Hero />
     {/* === Seasons Section === */}
