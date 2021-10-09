@@ -6,6 +6,10 @@ import '../styles/Hero.css';
 import '../styles/responsive.css';
 import '../styles/Seasons.css';
 import '../styles/ImageGallary.css';
+import '../styles/Location.css';
+import '../styles/About.css';
+import '../styles/Guide.css';
+import '../styles/Footer.css';
 
 function MyApp({ Component, pageProps }) {
   return (

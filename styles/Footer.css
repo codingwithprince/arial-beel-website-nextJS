@@ -1,0 +1,67 @@
+.footer{
+    padding: 7%;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('https://www.lrbtravelteam.com/wp-content/uploads/2020/11/Areal-Beel..png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top:10%;
+}
+.footer-wave{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+.footer-logo{
+	font-size: 30px;
+    text-transform: capitalize;
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: #fff !important;
+}
+.footer-text{
+    padding-top: 20px;
+}
+.footer-text p{
+    color: #b8b8b8;
+    text-align: left;
+    margin-bottom: 0;
+}
+.footer-links{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.link-title{
+    font-weight: 600;
+    color: #fff;
+}
+.footer-links ul{
+    list-style: none;
+    padding-left: 2px;
+    padding-top: 20px;
+}
+.footer-links ul li{
+    margin-top: 5px;
+}
+.footer-links ul li a{
+    color: #b8b8b8;
+    padding-top: 10px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.fw-600{
+    text-align: left;    
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.social-links{
+    padding-top: 20px;
+}
+.social-links .social-link{
+    font-size: 30px;
+    color: #b8b8b8;
+    margin-right: 5px;
+}
