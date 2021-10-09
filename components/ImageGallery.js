@@ -39,8 +39,8 @@ const ImageGallery = () => {
 const SingleImage = (props) => {
     const { src, name } = props.data;
     return (
-        <div className="single-image">
-            <img data-aos="fade-up-right" src={src} alt={name} />
+        <div data-aos="fade-up-right"  className="single-image">
+            <img src={src} alt={name} />
             <div className="img-overlay">
                 {/* <p className="img-text">{name}</p> */}
             </div>
