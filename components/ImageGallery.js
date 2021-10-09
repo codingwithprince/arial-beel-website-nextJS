@@ -1,7 +1,7 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { imgData } from '../public/imgData';
-
+import Image from 'next/image'
 
 const ImageGallery = () => {
     
@@ -40,7 +40,7 @@ const SingleImage = (props) => {
     const { src, name } = props.data;
     return (
         <div className="single-image">
-            <img src={src} alt={name} />
+            <img data-aos="fade-up-right" src={src} alt={name} />
             <div className="img-overlay">
                 {/* <p className="img-text">{name}</p> */}
             </div>

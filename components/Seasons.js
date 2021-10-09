@@ -30,7 +30,7 @@ const Seasons = () => {
 const SingleSeason = (props) => {
     const {name, img, link,bName} = props.info;
     return (
-        <Col xs="12" sm="6" md="6" lg="4" className="season d-flex justify-content-center align-items-center">
+        <Col data-aos="fade-up-right"  xs="12" sm="6" md="6" lg="4" className="season d-flex justify-content-center align-items-center">
             <Card className="text-white single-season">
             <Card.Img src={img} alt="Card image" />
             <Card.ImgOverlay>

@@ -8,10 +8,10 @@ const About = () => {
         <Container>
           {/* ===  iframe === */}
 
-          <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZJAvcKX7DSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe data-aos="fade-down" width="100%" height="400" src="https://www.youtube.com/embed/ZJAvcKX7DSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          
           {/* === Text === */}
-          <p className="about-text"><span className="span">A</span>rial Beel is the third largest wetland in Bangladesh. This beel is covering an area of 136 sq. km. It is situated in Sreenagar Upazila of Munshiganj District. The beel is full of many small ponds and canals.
+          <p data-aos="fade-up" className="about-text"><span className="span">A</span>rial Beel is the third largest wetland in Bangladesh. This beel is covering an area of 136 sq. km. It is situated in Sreenagar Upazila of Munshiganj District. The beel is full of many small ponds and canals.
             During the Rainy season,
             The plants become more energetic and the huge with land borders look intriguing. However the beel lessens in winter, it actually stays traversable. The beel has large amounts of fish and during the dry season. The pumpkin of this beel is popular. You can have a visit through the beel by boats. The beel is only 35 km from Dhaka and can be reached in 40 minutes.
             Arial Beel, found south of the capital city, between the Padma and Dhaleshwari streams, is the third-biggest wetland in Bangladesh covering a space of 136 square kilometers.Breeding ground of an enormous number of fish species, Aral Beel transforms into a tremendous ocean during the blustery season. However fishing keeps on being the primary control of the neighborhood local area, in winter some piece of the beel becomes green with the development of different kinds of harvests and vegetables.

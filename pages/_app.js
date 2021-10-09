@@ -10,8 +10,18 @@ import '../styles/Location.css';
 import '../styles/About.css';
 import '../styles/Guide.css';
 import '../styles/Footer.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from "react";
 
 function MyApp({ Component, pageProps }) {
+  useEffect(() => {
+    AOS.init({
+      delay: 200,
+      duration: 600
+    });
+}, []);
+
   return (
     <Layout>
      <Component {...pageProps} />
