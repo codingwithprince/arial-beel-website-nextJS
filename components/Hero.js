@@ -8,7 +8,7 @@ const Hero = () => {
             <div className="bg-darks"></div>
              {/* <!--Overlay  --> */}
             <div className="content">
-                <h2 id="bigText" data-aos="zoom-out-left">আড়িয়াল বিল</h2>
+                <h1 id="bigText" data-aos="zoom-out-left">আড়িয়াল বিল</h1>
                 <p>Welcome to the third largest wetland in Bangladesh.</p>
                 <a className="readButton" href="#about">Read More </a>
                 <a className="locationButton" href="#location"> <MdLocationOn /> Location </a>

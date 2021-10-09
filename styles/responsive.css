@@ -1,7 +1,7 @@
 /* Mobile Devices */
 @media only screen and (max-width: 468px) {
    /* hero section */
-    .content h2{
+    .content h1{
         font-size: 70px;
         color: #fff;
         font-family: 'arial';
