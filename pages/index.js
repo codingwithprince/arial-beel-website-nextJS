@@ -16,7 +16,7 @@ export default function Home() {
     <Head>
       <title>Arial Beel - The Third Largest Wetland Of Bangladesh</title>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-      <meta name="description" content="All about Arial Beel ( আড়িয়াল বিল ). It contains all information about arial beel and proper guide to visit. আড়িয়াল বিল." />
+      <meta name="description" content="This website is all about Arial Beel ( আড়িয়াল বিল ). Arial Beel is the third largest wetland in Bangladesh Which is situated in Sreenagar Upazila of Munshiganj District. আড়িয়াল বিল ভ্রমন." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="google-site-verification" content="8dJfnlOl4CbW_P0tSVDiWWAP9ld_DusWtOuF1igHpLo" />
       <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
