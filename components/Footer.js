@@ -11,7 +11,7 @@ const Footer = () => {
                     <Col sm="12" md="4">
                         <div className="footer-links">
                             <Link href="/">
-                               <a className="footer-logo" >arial-beel</a> 
+                               <a className="footer-logo" >arial beel</a> 
                             </Link>
                             <div className="footer-text">
                                 <p>A boat trip to Arial Beel in the rainy season can be a good time to enjoy the most beautiful scenery.</p>
